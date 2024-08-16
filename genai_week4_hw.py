@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1DB9coySPPwUnqa4uCx1-s3VYYiA7ehVT
 """
 
-! pip install streamlit -q
+!pip install streamlit -q
 
 !wget -q -O - ipv4.icanhazip.com
 
